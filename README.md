@@ -54,4 +54,6 @@ Reference
 [codebasics](https://youtu.be/rdfbcdP75KI)
 
 
-Social media : [Linkedin](https://www.linkedin.com/in/krishnakantawasthi), [Youtube](https://www.youtube.com/@AwasthijiVlogs2)
+## 🌐 MY Social Media  
+- [LinkedIn](https://www.linkedin.com/in/krishnakantawasthi)  
+- [YouTube](https://www.youtube.com/@AwasthijiVlogs2)
