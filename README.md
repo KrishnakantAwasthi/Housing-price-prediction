@@ -52,3 +52,6 @@ Technology and tools used in this project
 
 Reference
 [codebasics](https://youtu.be/rdfbcdP75KI)
+
+
+Social media : [Linkedin](https://www.linkedin.com/in/krishnakantawasthi), [Youtube](https://www.youtube.com/@AwasthijiVlogs2)
