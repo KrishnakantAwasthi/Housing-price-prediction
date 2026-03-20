@@ -50,9 +50,6 @@ Technology and tools used in this project
 * [Bengaluru House price data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)
 * I have also uploaed the csv file in this repository [Bengaluru_House_Data.csv](Bengaluru_House_Data.csv)
 
-Reference
-[codebasics](https://youtu.be/rdfbcdP75KI)
-
 
 ## 🌐 MY Social Media  
 - [LinkedIn](https://www.linkedin.com/in/krishnakantawasthi)  
