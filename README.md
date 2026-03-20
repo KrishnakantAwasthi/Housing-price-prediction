@@ -56,4 +56,4 @@ Reference
 
 ## 🌐 MY Social Media  
 - [LinkedIn](https://www.linkedin.com/in/krishnakantawasthi)  
-- [YouTube](https://www.youtube.com/@AwasthijiVlogs2)
+- [YouTube](https://www.youtube.com/channel/UCeABe1F3cY2MwNf0Qo8w_FQ)
