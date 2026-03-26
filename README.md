@@ -1,6 +1,7 @@
 # Real Estate Price Prediction Project
 
-#Live Demo : (https://replit.com/@krishnakantawas/Housing-Price-Prediction)
+#Live Demo : 
+- [Live Demo](https://replit.com/@krishnakantawas/Housing-Price-Prediction)
 
 ## Introduction
 Creating a Machine Learning model to predict the home prices in Bangalore, India. We are going to use the dataset from Kaggle.com.
