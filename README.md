@@ -1,6 +1,5 @@
 # Real Estate Price Prediction Project
 
-#Live Demo : 
 - [Live Demo](https://replit.com/@krishnakantawas/Housing-Price-Prediction)
 
 ## Introduction
